@@ -43,6 +43,15 @@ h4 {
     background-color: #D6EAF8;
 }
 
+.cursos {
+    cursor: pointer;
+}
+
+.cursos:hover {
+    color: #1A5276;
+    font-weight: bold;
+}
+
 .enlaces {
     text-decoration: none;
     color: black;
